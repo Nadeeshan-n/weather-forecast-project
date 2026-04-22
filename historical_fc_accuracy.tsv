@@ -1,0 +1,2 @@
+echo -e "year\tmonth\tday\tobs_temp\tfc_temp\taccuracy\taccuracy_range" > historical_fc_accuracy.tsv
+2026	04	21	68		-68	poor
